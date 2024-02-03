@@ -1,3 +1,4 @@
+// search.jsxで使用
 import { Box, Container, Grid } from '@mui/material'
 import React from 'react'
 import SearchBar from '../SearchBar'

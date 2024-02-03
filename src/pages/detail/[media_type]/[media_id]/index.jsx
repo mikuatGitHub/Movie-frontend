@@ -13,11 +13,11 @@ return (
 <AppLayout
 header={
     <h2 className="font-semibold text-xl text-gray-800 leading-tight">
-        Detail
+        Selected Detail
     </h2>
 }>
 <Head>
-    <title>Laravel - Detail</title>
+    <title>Detail</title>
 </Head>
 
 {/* main */}

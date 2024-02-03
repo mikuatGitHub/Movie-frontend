@@ -67,11 +67,11 @@ return (
     <AppLayout
         header={
             <h2 className="font-semibold text-xl text-gray-800 leading-tight">
-                Search
+                Search-Result
             </h2>
         }>
         <Head>
-            <title>Laravel - Search</title>
+            <title>Search-Result</title>
         </Head>
 
         {/* add2 Sidebarで選択したカテゴリだけ表示する */}

@@ -16,7 +16,7 @@ const imagePath = item.poster_path ? `https://image.tmdb.org/t/p/original/${item
                       component={'img'}
                       sx={{ aspectRatio: '2/3' }}
                       image={imagePath}
-                      />
+                   />
 
                   <CardContent>
                       <Typography variant="h6" component={'div'} noWrap>
